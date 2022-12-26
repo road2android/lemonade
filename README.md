@@ -12,5 +12,6 @@ This lemonade app main concept is to serve glass of lemonade to you. while follo
 - **after clicking on the glass it will become empty and ask you restart or not?**
 
 ## Demonstration
-
-![Lemonade App Demo](lemonade.gif "How Lemonade App Works"){:style="display:block; margin-left:auto; margin-right:auto"}
+<p align="center">
+    ![Lemonade App Demo](lemonade.gif "How Lemonade App Works")
+</p>

@@ -13,4 +13,4 @@ This lemonade app main concept is to serve glass of lemonade to you. while follo
 
 ## Demonstration
 
-![Lemonade App Demo](lemonade.gif "How Lemonade App Works")
+![Lemonade App Demo](lemonade.gif "How Lemonade App Works"){:style="display:block; margin-left:auto; margin-right:auto"}

@@ -13,5 +13,5 @@ This lemonade app main concept is to serve glass of lemonade to you. while follo
 
 ## Demonstration
 <p align="center">
-    ![Lemonade App Demo](lemonade.gif "How Lemonade App Works")
+<img src="lemonade.gif" alt="Lemonade App Demo" title="How Lemonade App Works">
 </p>

@@ -2,11 +2,11 @@
     <!-- Base application theme. -->
     <style name="Theme.Lemonade" parent="Theme.MaterialComponents.DayNight">
         <!-- TitleBar color -->
-        <item name="colorPrimary">@color/yellow</item>
-        <item name="colorPrimaryVariant">@color/yellow</item>
+        <item name="colorPrimary">@color/yellow_200</item>
+        <item name="colorPrimaryVariant">@color/yellow_700</item>
         <item name="android:textColorPrimary">@color/black</item>
         <!-- StatusBar color -->
-        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- WindowBackground color -->
         <item name="android:windowBackground">@color/white</item>
         <!-- NavigationBar color -->
